@@ -1,10 +1,10 @@
-https://apify.com/epctex/instagram-video-downloader
+# [https://apify.com/epctex/instagram-video-downloader](https://apify.com/epctex/instagram-video-downloader?fpr=yhdrb)
 
 # Actor - Instagram Video Downloader
 
 ## Instagram Video Downloader
 
-Since Instagram Video Downloader doesn't provide a good and free API, this actor should help you to download videos from Instagram.com
+Since Instagram doesn't provide a good and free API, this actor should help you to download videos from Instagram.com
 
 The Instagram Video Downloader supports the following features:
 
