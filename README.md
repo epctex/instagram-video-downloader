@@ -1,4 +1,4 @@
-# [https://apify.com/epctex/instagram-video-downloader](https://apify.com/epctex/instagram-video-downloader?fpr=yhdrb)
+[https://apify.com/epctex/instagram-video-downloader](https://apify.com/epctex/instagram-video-downloader?fpr=yhdrb)
 
 # Actor - Instagram Video Downloader
 
